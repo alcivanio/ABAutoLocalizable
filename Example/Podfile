@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ABAutoLocalizable_Example' do
+  pod 'ABAutoLocalizable', :path => '../'
+
+  target 'ABAutoLocalizable_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
