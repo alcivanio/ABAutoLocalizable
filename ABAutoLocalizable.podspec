@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name                   = 'ABAutoLocalizable'
-    spec.version                = '0.1'
+    spec.version                = '0.1.1'
     spec.summary                = 'A simple way to make your app localizable'
     spec.platform               = :ios
     spec.license                = 'MIT'
